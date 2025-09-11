@@ -1,0 +1,34 @@
+# Java / Maven / Test Output
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
+
+# Allure
+allure-results/
+allure-report/
+.allure/
+
+# Reports
+reports/
+
+# Docker
+docker/*.log
+**/.env
+
+# IDE
+.vscode/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
