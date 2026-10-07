@@ -4,6 +4,7 @@
     <test name="Functional">
         <classes>
             <class name="com.apitesting.tests.functional.SmokeTest"/>
+            <class name="com.apitesting.tests.functional.HttpStatusCodesTest"/>
         </classes>
     </test>
 </suite>
